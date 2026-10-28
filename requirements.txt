@@ -2,7 +2,5 @@ streamlit>=1.40,<2.0
 folium>=0.17,<1.0
 streamlit-folium>=0.23,<1.0
 requests>=2.31,<3.0
-Plaintext
-streamlit
-pandas
-google-genai
+
+streamlit>=1.40.0,<2.0.0
