@@ -9,7 +9,7 @@ import uuid
 # ==========================================
 st.set_page_config(
     page_title="안심벨 | 가상 안전 신고",
-    page_icon="🛟",
+    page_icon="⚠️",
     layout="centered",
     initial_sidebar_state="collapsed",
 )
